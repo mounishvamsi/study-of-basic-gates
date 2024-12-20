@@ -83,6 +83,7 @@ endmodule
 
 Developed by:R.mounish vamsi kumar 
 RegisterNumber:24003774
+
 **Logic symbol & Truthtable**
 A B AND(G1) OR(G2) NOT(G3) NAND(G4) NOR(G5) EX-OR(G6) EX-NOR(G7)
 
