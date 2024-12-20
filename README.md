@@ -83,9 +83,12 @@ endmodule
 Developed by:R.mounish vamsi kumar 
 RegisterNumber:24003774
 **Logic symbol & Truthtable**
+
+![Screenshot 2024-12-20 205233](https://github.com/user-attachments/assets/f8579fc0-0532-4a62-864b-aadc5053a50e)
+
 **RTL realization Output:** 
 **RTL**
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-20 200709.png"
+![Screenshot 2024-12-20 200709](https://github.com/user-attachments/assets/55a41063-d644-48da-900e-c4e44e2c8658)
 **Result:Thus the different digital IC's are studied and truth table for different logic gates are verified**
 
 
