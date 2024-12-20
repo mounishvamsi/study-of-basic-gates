@@ -81,10 +81,12 @@ xnor g7(c7,a,b);
 endmodule
 ![Screenshot 2024-12-20 200354](https://github.com/user-attachments/assets/184bea16-936e-4001-a53a-7aff37d0fe3f)
 
-Developed by:R.mounish vamsi kumar 
+Developed by:R.mounish vamsi kumar
+
 RegisterNumber:24003774
 
 **Logic symbol & Truthtable**
+
 A B AND(G1) OR(G2) NOT(G3) NAND(G4) NOR(G5) EX-OR(G6) EX-NOR(G7)
 
 0 0 0 0 1 1 1 1 0
@@ -94,9 +96,11 @@ A B AND(G1) OR(G2) NOT(G3) NAND(G4) NOR(G5) EX-OR(G6) EX-NOR(G7)
 1 0 0 1 0 1 0 1 1
 
 1 1 1 1 0 0 0 0 0
+
 ![Screenshot 2024-12-20 205233](https://github.com/user-attachments/assets/f8579fc0-0532-4a62-864b-aadc5053a50e)
 
 **RTL realization Output:** 
+
 **RTL**
 
 ![Screenshot 2024-12-20 200709](https://github.com/user-attachments/assets/55a41063-d644-48da-900e-c4e44e2c8658)
