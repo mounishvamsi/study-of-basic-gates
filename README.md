@@ -83,7 +83,6 @@ endmodule
  Developed by:R.mounish vamsi kumar 
  RegisterNumber:24003774
 **Logic symbol & Truthtable**
-![WhatsApp Image 2024-12-20 at 20 46 04_a7faa494](https://github.com/user-attachments/assets/e5256d52-05e5-4784-a880-b4ff205adae8)
 **RTL realization Output:** 
 **RTL**
 "C:\Users\admin\Pictures\Screenshots\Screenshot 2024-12-20 200709.png"
