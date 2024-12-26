@@ -55,11 +55,11 @@ Y= A⊕B
 
 2.	Compile and run the program.
 
-3.	Generate the RTL schematic and save the logic diagram.
+4.	Generate the RTL schematic and save the logic diagram.
 
-4.	Create nodes for inputs and outputs to generate the timing diagram.
+5.	Create nodes for inputs and outputs to generate the timing diagram.
 
-5.	For different input combinations generate the timing diagram.
+6.	For different input combinations generate the timing diagram.
 
 
 **PROGRAM**
